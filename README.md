@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python for Data Analytics
+- 💬 Ask me about cars and tech
+- 📫 How to reach me: ramkrish2020@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am an experienced Senior Computer Aided Engineering (CAE) and Automotive Benchmarking Analyst
 <!--
 **ramakrishnannatarajan/ramakrishnannatarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
