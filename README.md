@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning Python
 - 💬 Ask me about cars and tech
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an experienced Senior Computer Aided Engineering (CAE) and Automotive Benchmarking Analyst (Around 10 years)
 <!--
 **ramakrishnannatarajan/ramakrishnannatarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
