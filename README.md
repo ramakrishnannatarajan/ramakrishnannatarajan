@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python for Data Analytics
+- 🌱 I’m currently learning Python
 - 💬 Ask me about cars and tech
-- 📫 Reach me @ ramkrish2020@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an experienced Senior Computer Aided Engineering (CAE) and Automotive Benchmarking Analyst (Around 10 years)
 <!--
